@@ -1,5 +1,5 @@
 {
-  "name": "m365-graph",
+  "name": "@jasp/m365-graph",
   "version": "1.0.0",
   "description": "Tooling for data requests to Microsoft Graph. Capable of handling retrials for failed request and batch requests.",
   "main": "dist/index.js",
