@@ -1,0 +1,19 @@
+{
+  "name": "m365-graph",
+  "version": "1.0.0",
+  "description": "Tooling for data requests to Microsoft Graph. Capable of handling retrials for failed request and batch requests.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "JASP <info@jasp.eu>",
+  "repository": "https://github.com/JASP-eu/m365-graph.git",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "files": [
+    "/dist"
+  ],
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
